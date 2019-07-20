@@ -1,0 +1,14 @@
+code down below//
+
+BASIC CODE
+
+function setup () {
+createCanvas(600,400)
+background(220) / optional
+}
+
+fuction draw() {
+ellipse()
+rect()
+line ()
+//or any on the refrence page
